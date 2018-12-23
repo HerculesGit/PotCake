@@ -3,11 +3,11 @@ package com.example.bgamer.potcake;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class ChooseOrdering extends AppCompatActivity {
+public class ChoosePotCakeActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_choose_ordering);
+        setContentView(R.layout.activity_choose_pot_cake);
     }
 }

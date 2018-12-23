@@ -3,11 +3,11 @@ package com.example.bgamer.potcake;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class ChoosePotCake extends AppCompatActivity {
+public class DashBoardActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_choose_pot_cake);
+        setContentView(R.layout.activity_dash_board);
     }
 }
